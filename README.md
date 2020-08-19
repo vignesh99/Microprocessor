@@ -1,2 +1,2 @@
 # Microprocessor
-A part of the course project on Microprocessors (EE2016). Contains various parts of the microprocessor written in Verilog
+A part of the course project on Microprocessors (EE2016). Contains various units of a microprocessor such Control Unit (CU), Execution Unit (EU), Program Memory (PGM), Data Memory and Arithmetic Logic Unit (ALU) written in Verilog. It performs MOV (move), STR (store), LOAD, JUMP along with other arithmetic operations. It is a 8-bit Microprocessor since the data bus width is 8-bits. 
